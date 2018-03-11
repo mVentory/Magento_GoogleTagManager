@@ -1,3 +1,6 @@
+This project has been discontinued. Check out our next project: a [4G security camera](https://sensorable.io).
+
+
 # Google Tag Manager
 
 A standard implementation of [Google Tag Manager][1] for [Magento][2], with data layer support for transaction and visitor data.
